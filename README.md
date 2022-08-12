@@ -30,3 +30,8 @@ My name is Lin and I am a CS student at Cornell University. I am currently activ
 ### 💾 Database
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 GitHub Stat
+![GitHub Stat](https://github-readme-stats.vercel.app/api?username=linjing-liu)
+<br />
+![Language Summary](https://github-readme-stats.vercel.app/api/top-langs/?username=linjing-liu)
